@@ -65,18 +65,19 @@ Pixie Edit is a simple and elegant photo editor built using **React.js**, powere
   
 ![Screenshot (61)](https://github.com/user-attachments/assets/5606cc18-2570-4838-bf95-78cee433c929)
 
-### 🧹 4. **Reset Filters**
-- Resets all filters and transformations to the default/original state.
-
-  
-![Screenshot (65)](https://github.com/user-attachments/assets/dff999b1-7dc6-4b98-93aa-74c2cdb37140)
-
-
-### 💾 5. **Save Image**
+### 💾 4. **Save Image**
 - Saves the edited image and shows a success modal:
 > ✅ **Image successfully saved and downloaded!**
 
 ![Screenshot (63)](https://github.com/user-attachments/assets/dde773e0-2bb5-455e-862f-1d93b8f775b5)
 
 ![Screenshot (64)](https://github.com/user-attachments/assets/001dfc24-497a-45b2-a7d5-6ed9757708c5)
+
+### 🧹 5. **Reset Filters**
+- Resets all filters and transformations to the default/original state.
+
+  
+![Screenshot (65)](https://github.com/user-attachments/assets/dff999b1-7dc6-4b98-93aa-74c2cdb37140)
+
+
 
