@@ -1,4 +1,4 @@
-![Brightness](https://github.com/user-attachments/assets/ddf915f2-0738-4987-b79d-3706a04e6f92)# 🌈 Pixie Edit - Photo Editor in React
+# 🌈 Pixie Edit - Photo Editor in React
 
 Pixie Edit is a simple and elegant photo editor built using **React.js**, powered by **Vite**, styled with **Tailwind CSS**, and enhanced with **Font Awesome** and **Boxicons** for intuitive user interaction.
 
